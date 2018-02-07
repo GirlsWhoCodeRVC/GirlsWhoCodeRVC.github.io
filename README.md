@@ -6,3 +6,5 @@ Project Name:
 Project Description:
 
 Solution(s):
+
+![GWC@RVC](fullsizeoutput_41bc.jpeg)
